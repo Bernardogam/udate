@@ -22,6 +22,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 */
+a {
+  color: blue;  
+}
 
 .pl-c /* comment */ {
   color: #969896;
@@ -121,4 +124,3 @@ SOFTWARE.
 .pl-mo /* meta.output */ {
   color: #1d3e81;
 }
-
